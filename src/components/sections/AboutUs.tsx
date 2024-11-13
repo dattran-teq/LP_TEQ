@@ -1,13 +1,7 @@
-import { ReactNode } from "react"
 import Features from "../Features"
 import ColorButton from "../ColorButton"
 
 
-type Props = {
-    title : string
-    content : ReactNode 
-
-} 
 
 
 const AboutUs : React.FC = () => {
